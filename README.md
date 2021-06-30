@@ -1,10 +1,3 @@
-### Formação
-
-- MBA Data Science and Analytics - USP 
-- Graduação Análise e desenvolvimento de sistemas - UMC
-
-
-
-____
+___
 
 ##### 🖖 _Vida longa e prospera_
